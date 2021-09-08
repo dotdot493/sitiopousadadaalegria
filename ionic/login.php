@@ -119,7 +119,7 @@
 						<div class="field">
 							<label class="label">Usuário</label>
 							<div class="control">
-								<input name="login" class="input" type="text" placeholder="Nome do Usuário
+								<input name="login" class="input" type="text" placeholder="Nome do Usuário>
 						</div>
  
 						<div class="field">
